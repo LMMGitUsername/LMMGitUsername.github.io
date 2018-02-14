@@ -28,7 +28,7 @@
             // Iterate over the JSON object
             for (var i = 0, len = feat.length; i < len; i++) {
                 tableData.push({
-					"ID": i,
+					"id": i,
                     "Quote": feat[i]
                 });
             }
